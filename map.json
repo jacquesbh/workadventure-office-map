@@ -31,7 +31,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/monsieurbiz.com"
+                 "value":"https:\/\/github.com\/monsieurbiz\/docs\/blob\/master\/README.md"
                 }],
          "type":"tilelayer",
          "visible":true,
