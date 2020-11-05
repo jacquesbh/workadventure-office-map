@@ -32822,19 +32822,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":6,
-         "firstgid":5402,
-         "image":"monsieurbiz.png",
-         "imageheight":184,
-         "imagewidth":192,
-         "margin":0,
-         "name":"monsieurbiz",
-         "spacing":0,
-         "tilecount":30,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
