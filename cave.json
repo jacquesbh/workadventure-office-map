@@ -20,6 +20,11 @@
                  "name":"exitSceneUrl",
                  "type":"string",
                  "value":"map.json#backFromTheCaveToTheWarRoom"
+                }, 
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"map.json#backFromTheCaveToTheWarRoom"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -36,6 +41,11 @@
          "properties":[
                 {
                  "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"map.json#backFromTheCave"
+                }, 
+                {
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"map.json#backFromTheCave"
                 }],
