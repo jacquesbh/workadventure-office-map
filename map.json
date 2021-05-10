@@ -85,7 +85,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"cave.json"
+                 "value":"\/@\/monsieur-biz\/office\/cellar"
                 }],
          "type":"tilelayer",
          "visible":true,

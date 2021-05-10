@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#backFromTheCaveToTheWarRoom"
+                 "value":"\/@\/monsieur-biz\/office\/garden#backFromTheCaveToTheWarRoom"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#backFromTheCave"
+                 "value":"\/@\/monsieur-biz\/office\/garden#backFromTheCave"
                 }],
          "type":"tilelayer",
          "visible":true,
