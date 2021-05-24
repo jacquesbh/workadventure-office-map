@@ -33488,19 +33488,6 @@
          "tilecount":2016,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":8,
-         "firstgid":8587,
-         "image":"pokemon.png",
-         "imageheight":20832,
-         "imagewidth":256,
-         "margin":0,
-         "name":"pokemon",
-         "spacing":0,
-         "tilecount":5208,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
