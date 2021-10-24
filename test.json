@@ -28,12 +28,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"{}"
-                        }, 
-                        {
-                         "name":"jsonSchema",
-                         "type":"string",
-                         "value":"{}"
+                         "value":"https:\/\/dashboard.monsieurbiz.com\/standalone\/fr\/company\/7676378\/iframe\/a4e07bec3c"
                         }, 
                         {
                          "name":"persist",
@@ -54,8 +49,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1099.82097980774,
-                 "y":747.763212489205
+                 "x":850.085661877862,
+                 "y":238.95085650739
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -94,7 +89,7 @@
                 {
                  "height":349.965823650034,
                  "id":3,
-                 "name":"",
+                 "name":"testwebsite",
                  "properties":[
                         {
                          "name":"url",
@@ -102,7 +97,7 @@
                          "value":"{{{ test }}}"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":579.630895420369,
                  "x":526.817079499464,
