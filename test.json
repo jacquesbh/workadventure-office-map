@@ -21,35 +21,7 @@
                  "draworder":"topdown",
                  "id":9,
                  "name":"iframe",
-                 "objects":[
-                        {
-                         "id":4,
-                         "name":"url",
-                         "properties":[
-                                {
-                                 "name":"default",
-                                 "type":"string",
-                                 "value":"https:\/\/dashboard.monsieurbiz.com\/standalone\/fr\/company\/7676378\/iframe\/a4e07bec3c"
-                                }, 
-                                {
-                                 "name":"label",
-                                 "type":"string",
-                                 "value":"URL"
-                                }, 
-                                {
-                                 "name":"persist",
-                                 "type":"bool",
-                                 "value":true
-                                }, 
-                                {
-                                 "name":"writableBy",
-                                 "type":"string",
-                                 "value":"admin"
-                                }],
-                         "template":"config.tx",
-                         "x":850.085661877862,
-                         "y":238.95085650739
-                        }],
+                 "objects":[],
                  "opacity":1,
                  "properties":[
                         {
@@ -62,9 +34,48 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"configuration",
+         "name":"configuration_",
          "opacity":1,
          "type":"group",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":14,
+         "name":"configuration",
+         "objects":[
+                {
+                 "id":4,
+                 "name":"url",
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"https:\/\/dashboard.monsieurbiz.com\/standalone\/fr\/company\/7676378\/iframe\/a4e07bec3c"
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"URL"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"string",
+                         "value":"admin"
+                        }],
+                 "template":"config.tx",
+                 "x":850.085661877862,
+                 "y":238.95085650739
+                }],
+         "opacity":1,
+         "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
@@ -120,7 +131,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":14,
+ "nextlayerid":15,
  "nextobjectid":7,
  "orientation":"orthogonal",
  "properties":[
