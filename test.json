@@ -21,7 +21,30 @@
                  "draworder":"topdown",
                  "id":9,
                  "name":"iframe",
-                 "objects":[],
+                 "objects":[
+                        {
+                         "height":0,
+                         "id":7,
+                         "name":"url",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":"https:\/\/dashboard.monsieurbiz.com\/standalone\/fr\/company\/7676378\/iframe\/a4e07bec3c"
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"URL"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":843.125,
+                         "y":217.5
+                        }],
                  "opacity":1,
                  "properties":[
                         {
@@ -34,7 +57,7 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"configuration_",
+         "name":"configuration",
          "opacity":1,
          "type":"group",
          "visible":true,
@@ -44,31 +67,8 @@
         {
          "draworder":"topdown",
          "id":14,
-         "name":"configuration",
-         "objects":[
-                {
-                 "height":0,
-                 "id":7,
-                 "name":"url",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/dashboard.monsieurbiz.com\/standalone\/fr\/company\/7676378\/iframe\/a4e07bec3c"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"URL"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":843.125,
-                 "y":217.5
-                }],
+         "name":"configuration_",
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -111,7 +111,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"{{{ url }}}"
+                         "value":"https:\/\/dashboard.monsieurbiz.com\/standalone\/fr\/company\/7676378\/iframe\/a4e07bec3c"
                         }],
                  "rotation":0,
                  "type":"website",
