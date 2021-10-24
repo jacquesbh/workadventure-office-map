@@ -47,8 +47,10 @@
          "name":"configuration",
          "objects":[
                 {
-                 "id":4,
+                 "height":0,
+                 "id":7,
                  "name":"url",
+                 "point":true,
                  "properties":[
                         {
                          "name":"default",
@@ -59,20 +61,13 @@
                          "name":"label",
                          "type":"string",
                          "value":"URL"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"writableBy",
-                         "type":"string",
-                         "value":"admin"
                         }],
-                 "template":"config.tx",
-                 "x":850.085661877862,
-                 "y":238.95085650739
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":843.125,
+                 "y":217.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -132,7 +127,7 @@
          "y":0
         }],
  "nextlayerid":15,
- "nextobjectid":7,
+ "nextobjectid":8,
  "orientation":"orthogonal",
  "properties":[
         {
