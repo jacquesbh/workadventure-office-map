@@ -15,19 +15,56 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":9,
-         "name":"variables",
-         "objects":[
+         "id":13,
+         "layers":[
                 {
-                 "id":4,
-                 "name":"config",
-                 "template":"config.tx",
-                 "x":850.085661877862,
-                 "y":238.95085650739
+                 "draworder":"topdown",
+                 "id":9,
+                 "name":"iframe",
+                 "objects":[
+                        {
+                         "id":4,
+                         "name":"config",
+                         "properties":[
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"URL"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
+                                }, 
+                                {
+                                 "name":"readableBy",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"writableBy",
+                                 "type":"string",
+                                 "value":""
+                                }],
+                         "template":"config.tx",
+                         "x":850.085661877862,
+                         "y":238.95085650739
+                        }],
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"iframe configuration"
+                        }],
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
                 }],
+         "name":"configuration",
          "opacity":1,
-         "type":"objectgroup",
+         "type":"group",
          "visible":true,
          "x":0,
          "y":0
@@ -83,7 +120,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":12,
+ "nextlayerid":14,
  "nextobjectid":7,
  "orientation":"orthogonal",
  "properties":[
