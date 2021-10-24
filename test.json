@@ -20,35 +20,9 @@
          "name":"variables",
          "objects":[
                 {
-                 "height":0,
                  "id":4,
-                 "name":"test",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/dashboard.monsieurbiz.com\/standalone\/fr\/company\/7676378\/iframe\/a4e07bec3c"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"readableBy",
-                         "type":"string",
-                         "value":""
-                        }, 
-                        {
-                         "name":"writableBy",
-                         "type":"string",
-                         "value":"admin"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
+                 "name":"config",
+                 "template":"config.tx",
                  "x":850.085661877862,
                  "y":238.95085650739
                 }],
@@ -89,12 +63,12 @@
                 {
                  "height":349.965823650034,
                  "id":3,
-                 "name":"testwebsite",
+                 "name":"website",
                  "properties":[
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"{{{ test }}}"
+                         "value":"{{{ config }}}"
                         }],
                  "rotation":0,
                  "type":"website",
@@ -109,7 +83,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":11,
+ "nextlayerid":12,
  "nextobjectid":7,
  "orientation":"orthogonal",
  "properties":[

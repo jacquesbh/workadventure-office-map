@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object name="test" type="variable">
+  <properties>
+   <property name="default" value="https://dashboard.monsieurbiz.com/standalone/fr/company/7676378/iframe/a4e07bec3c"/>
+   <property name="persist" type="bool" value="true"/>
+  </properties>
+  <point/>
+ </object>
+</template>
