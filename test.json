@@ -99,7 +99,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/dashboard.monsieurbiz.com\/standalone\/fr\/company\/7676378\/iframe\/a4e07bec3c"
+                         "value":"{{{ test }}}"
                         }],
                  "rotation":0,
                  "type":"",
