@@ -40,16 +40,6 @@
                                  "name":"persist",
                                  "type":"bool",
                                  "value":true
-                                }, 
-                                {
-                                 "name":"readableBy",
-                                 "type":"string",
-                                 "value":""
-                                }, 
-                                {
-                                 "name":"writableBy",
-                                 "type":"string",
-                                 "value":"admin"
                                 }],
                          "template":"config.tx",
                          "x":850.085661877862,
