@@ -171,6 +171,11 @@
                  "value":"mbiz-office-entry-sofas"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -192,6 +197,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"mbiz-office-sofas"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -210,6 +220,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"mbiz-office-war-2"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -235,6 +250,11 @@
                  "value":"mbiz-office-war-1"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -256,6 +276,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"mbiz-office-kitchen"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -281,6 +306,11 @@
                  "value":"mbiz-office-bar"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -304,6 +334,11 @@
                  "value":"mbiz-office-picnic"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -325,6 +360,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"mbiz-office-tonneau"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
